@@ -26,6 +26,7 @@ print(f"Your score is {score}")
 
 print(f"You got {score} scores")
 
+# My quiz ayy
 
 
 
